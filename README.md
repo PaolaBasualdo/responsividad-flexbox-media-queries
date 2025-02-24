@@ -22,8 +22,7 @@
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Estado del proyecto](#-estado-del-proyecto)
 - [Características de la aplicación](#caracteristicas)
-- [Funcionalidades].(#-funcionalidades).
-- [Problemas conocidos](#-problemas-conocidos)
+- [Funcionalidades](#-funcionalidades)
 - [Versión](#-versión)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
